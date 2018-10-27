@@ -1,2 +1,2 @@
-# Expense Pro - Laravel Apis
+# Expense Pro - Laravel APIs
 APIs for tracking expenses
